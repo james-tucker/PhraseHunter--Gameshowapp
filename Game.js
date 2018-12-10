@@ -2,7 +2,7 @@ class Game {
     // Constructor initiliazes value(s)
     constructor() {
         this.missed = 0;
-        this.phrases = ['Mamba Mentality', 'Ship It', 'Go Rams', 'How are you', 'If you fall get up'];
+        this.phrases = ['mamba mentality', 'ship it', 'go gams go', 'how are you', 'if you fall get up'];
         //Set in the gameStart method
         this.phraseClass = '';
     }
